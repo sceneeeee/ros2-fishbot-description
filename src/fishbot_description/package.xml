@@ -2,8 +2,8 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>fishbot_description</name>
-  <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <version>1.0.0</version>
+  <description>FishBot description package for ROS 2 Humble with URDF/Xacro, Gazebo simulation, sensors, and ros2_control.</description>
   <maintainer email="peterufo060419@gmail.com">evens</maintainer>
   <license>Apache-2.0</license>
 
