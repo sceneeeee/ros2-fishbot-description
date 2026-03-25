@@ -13,7 +13,7 @@
                 </plugin>
                 <always_on>true</always_on>
                 <visualize>true</visualize>
-                <update_rate>20</update_rate>
+                <update_rate>40</update_rate>
                 <pose>0 0 0 0 0 0</pose>
 				<!-- 激光传感器配置 -->
                 <ray>
@@ -22,8 +22,8 @@
                         <horizontal>
                             <samples>360</samples>
                             <resolution>1.000000</resolution>
-                            <min_angle>0.000000</min_angle>
-                            <max_angle>6.280000</max_angle>
+                            <min_angle>-3.141593</min_angle>
+                            <max_angle>3.141593</max_angle>
                         </horizontal>
                     </scan>
                     <!-- 设置扫描距离 -->
